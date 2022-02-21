@@ -70,7 +70,7 @@ App is used to build a profile of a team with information on each member within 
 
 ## Screenshot
 
-<img src = "./assets/images/Screenshot.png" />
+<img src="./assets/images/Screenshot.png" />
 
 
 ## License
