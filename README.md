@@ -1,8 +1,17 @@
-# Team-Profile-Generator
+# Team Profile Generator
 
-This application will generate a webpage that displays a team's basic info to give quick access to their emails and GitHub profiles
+## [![License:MIT](https://img.shields.io/badge/License-MIT-aqua)](https://opensource.org/licenses/MIT)
+
 
 ## Description
+
+This application will dynamically generate a webpage that displays a team's basic info to give quick access to their emails and GitHub profiles.
+
+Built with:
+
+JavaScript/n - HTML/n - CSS/n - ES6/n - jQuery/n - Bootstrap/n - Node
+
+[GitHub Repo](https://github.com/SuperDasMan/Team Profile Generator/)
 
 ### User Story
 
@@ -36,3 +45,52 @@ This application will generate a webpage that displays a team's basic info to gi
 
     WHEN I decide to finish building my team
     THEN I exit the application, and the HTML is generated
+
+
+## Table of Contents
+
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
+
+## Installation
+
+Clone repository and download NodeJS. Open terminal and navigate directory to the app's root folder. Then run `node i npm` to install npm. Run `node index` and answer prompts.
+
+
+## Usage
+
+App is used to build a profile of a team with information on each member within their own designated profile card.
+
+
+## License
+
+## [License](#license)
+
+This application is covered by the [MITlicense]([![MIT]](https://opensource.org/licenses/MIT)).
+
+Check out the badges hosted by [shields.io](https://shields.io/).
+
+
+## Contributing
+
+No contributing developers at this time.
+
+
+## Tests
+
+Jest - TDD on each function within the separate modules to reduce likelihood of errors
+
+
+## Questions
+
+For any questions, comments, or bug reports, please reach out to me at [GitHub: SuperDasMan](https://github.com/SuperDasMan) or [Email me](mailto:joshwest.biz@gmail.com)
+
+_This README was generated with ❤️ by Josh West using [README-generator](https://github.com/SuperDasMan/README-Generator)_
+
+(C)2022 SuperDasMan Studios, LLC.
