@@ -11,7 +11,7 @@ Built with:
 
 JavaScript/n - HTML/n - CSS/n - ES6/n - jQuery/n - Bootstrap/n - Node
 
-[GitHub Repo](https://github.com/SuperDasMan/Team Profile Generator/)
+[GitHub Repo](https://github.com/SuperDasMan/Team-Profile-Generator/)
 
 ### User Story
 
