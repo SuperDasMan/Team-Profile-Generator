@@ -11,7 +11,7 @@ Built with:
 
 JavaScript/n - HTML/n - CSS/n - ES6/n - jQuery/n - Bootstrap/n - Node
 
-[GitHub Repo](https://github.com/SuperDasMan/Team Profile Generator/)
+[GitHub Repo](https://github.com/SuperDasMan/Team-Profile-Generator/)
 
 ### User Story
 
@@ -62,15 +62,24 @@ JavaScript/n - HTML/n - CSS/n - ES6/n - jQuery/n - Bootstrap/n - Node
 
 Clone repository and download NodeJS. Open terminal and navigate directory to the app's root folder. Then run `node i npm` to install npm. Run `node index` and answer prompts.
 
+## Getting Started
+
+Please watch my [tutorial video](./assets/video/Team-Profile-Generator.mp4) before getting started.
+
 
 ## Usage
 
 App is used to build a profile of a team with information on each member within their own designated profile card.
 
 
+## Screenshot
+
+<img src="./assets/images/Screenshot.png" />
+
+
 ## License
 
-## [License](#license)
+### [License](#license)
 
 This application is covered by the [MITlicense]([![MIT]](https://opensource.org/licenses/MIT)).
 
