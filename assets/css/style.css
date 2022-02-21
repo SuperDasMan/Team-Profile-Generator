@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #00eeff;
+  --secondary: #006696;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:#7fffd4
+}
+
+#navbar {
+  background-color: #00ffff;
+  background-image: linear-gradient(90deg, #7fffd4 13%, #00eeff 42%, #006696 80%);
+  color: var(--secondary);
+  font-size: 50px;
+}
+
+.navbar-brand {
+  font-size: 50px;
+}
+
+.card-header {
+  background-color: var(--primary);
+  color: var(--secondary);
+  border-top-left-radius: 20%;
+  box-shadow: 0 0 0 10px #006696
+}
+
+.card-body {
+  background-color: var(--secondary);
+  color: var(--primary);
+  border-bottom-right-radius: 10%;
+  box-shadow: 0 0 0 10px #006696
+}
+
+.container {
+  margin: 100px auto;
+  justify-content: space-evenly;
+  display: flex;
+}
