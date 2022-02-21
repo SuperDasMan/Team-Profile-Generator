@@ -62,6 +62,10 @@ JavaScript/n - HTML/n - CSS/n - ES6/n - jQuery/n - Bootstrap/n - Node
 
 Clone repository and download NodeJS. Open terminal and navigate directory to the app's root folder. Then run `node i npm` to install npm. Run `node index` and answer prompts.
 
+## Getting Started
+
+Please watch my [tutorial video](./assets/video/Team-Profile-Generator.mp4) before getting started.
+
 
 ## Usage
 
