@@ -68,9 +68,14 @@ Clone repository and download NodeJS. Open terminal and navigate directory to th
 App is used to build a profile of a team with information on each member within their own designated profile card.
 
 
+## Screenshot
+
+<img src = "/.assets/images/Screenshot.png">
+
+
 ## License
 
-## [License](#license)
+### [License](#license)
 
 This application is covered by the [MITlicense]([![MIT]](https://opensource.org/licenses/MIT)).
 
