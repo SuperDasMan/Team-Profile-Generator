@@ -102,4 +102,4 @@ For any questions, comments, or bug reports, please reach out to me at [GitHub: 
 
 _This README was generated with ❤️ by Josh West using [README-generator](https://github.com/SuperDasMan/README-Generator)_
 
-(c)2022 SuperDasMan Studios, LLC.
+&copy; 2022 SuperDasMan Studios, LLC.
