@@ -64,7 +64,7 @@ Clone repository and download NodeJS. Open terminal and navigate directory to th
 
 ## Getting Started
 
-Please watch my [tutorial video](./assets/video/Team-Profile-Generator.mp4) before getting started.
+Please watch my [tutorial](./assets/videos/TPG-Tests_Passing.mp4) [videos](./assets/video/Team-Profile-Generator.mp4) before getting started.
 
 
 ## Usage
